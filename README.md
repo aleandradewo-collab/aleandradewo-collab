@@ -11,6 +11,7 @@ This GitHub is my personal lab: projects I build out of curiosity, to learn, and
 - 🎓 Studying Data Science
 - 🔭 Currently building ML models for sports prediction
 - 📊 Interested in predictive modelling, behavioural analysis and product analytics
+- Multilingual
 - 🌍 Based in Spain
 - 🗣️ Always open to collaborate or discuss interesting data problems
 
